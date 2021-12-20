@@ -2,6 +2,17 @@
 
 This repository contains the configurations for official participation events.
 
+## Event `raw`-links
+
+### Assembly Round 1
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_01.json<br>
+ID: `57607d9f8cefc366c3ead71f5b1d76cef1b36a07eb775158c541107951d4aecb`
+
+### Shimmer
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/shimmer.json<br>
+ID: `f6dbdad416e0470042d3fe429eb0e91683ba171279bce01be6d1d35a9909a981`
+
 ## How to add a ballot or staking event as a node operator?
 
 First, you need to update your [Hornet](https://github.com/gohornet/hornet) node to the latest release version (>= v1.1.0). <br>
