@@ -1,0 +1,17 @@
+{
+    "name": "Shimmer",
+    "milestoneIndexCommence": 2041634,
+    "milestoneIndexStart": 2102114,
+    "milestoneIndexEnd": 2879714,
+    "payload":
+    {
+        "type": 1,
+        "text": "Shimmer Genesis Staking",
+        "symbol": "SMR",
+        "numerator": 1,
+        "denominator": 1000000,
+        "requiredMinimumRewards": 10000000,
+        "additionalInfo": "Tracking the initial token distribution of the upcoming Shimmer network."
+    },
+    "additionalInfo": "The incentivized staging network to advance major innovations by IOTA. Whatever happens, happens - the future of Shimmer will be up to you. Learn, build, earn and grow together."
+}
