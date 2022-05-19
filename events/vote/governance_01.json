@@ -1,0 +1,31 @@
+{
+    "name": "IOTA Community Governance Vote",
+    "milestoneIndexCommence": 3395664,
+    "milestoneIndexStart": 3456144,
+    "milestoneIndexEnd": 3542544,
+    "payload":
+    {
+        "type": 0,
+        "questions":
+        [
+            {
+                "text": "What should be done with the unclaimed treasury tokens?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Build",
+                        "additionalInfo": "The tokens will be used to support and fund projects and initiatives that are important to the IOTA community ecosystem via future votes"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Burn",
+                        "additionalInfo": "Burn the Treasury tokens - The unclaimed tokens will be removed from the IOTA ledger and the total supply will be reduced by the number of tokens held in the unclaimed treasury pool"
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "You can decide the future of more than 50Ti unclaimed IOTA tokens by participating in this community proposal."
+}
