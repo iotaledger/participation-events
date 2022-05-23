@@ -4,6 +4,11 @@ This repository contains the configurations for official participation events.
 
 ## Event `raw`-links
 
+### IOTA Community Governance Vote
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/vote/governance_01.json<br>
+ID: `c8529ff64ea191b437cd625af8b02fd0173bc94aae380ea4cc3367a651536cba`
+
 ### Assembly Round 2
 
 Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_02.json<br>
