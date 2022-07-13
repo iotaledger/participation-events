@@ -1,0 +1,28 @@
+{
+    "name": "Shimmer Ecosystem Funding Proposal",
+    "milestoneIndexCommence": 3810363,
+    "milestoneIndexStart": 3870843,
+    "milestoneIndexEnd": 3931323,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Should we incentivize builders and activity on the Shimmer network by increasing the token supply to give the Shimmer Community Treasury DAO and the Tangle Ecosystem Association (TEA) each 10% of the new total supply?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No",
+                        "additionalInfo": ""
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "Read the proposal here: https://govern.iota.org/t/discussion-proposal-to-increase-the-shimmer-supply-for-a-community-treasury/1291 and the follow-up proposal here: https://govern.iota.org/t/discussion-follow-up-proposal-to-the-establishment-of-a-shimmer-ecosystem-fund/1315"
+}
