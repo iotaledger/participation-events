@@ -4,15 +4,15 @@ This repository contains the configurations for official participation events.
 
 ## Event `raw`-links
 
+### Assembly Round 3
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_03.json<br>
+ID: `79958d5ccaaa81cea1dc8b589655d369b16c72f27a44433ba22c5b0a7dc89356`
+
 ### Shimmer Ecosystem Funding Proposal
 
 Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/vote/shimmer_funding.json<br>
 ID: `9e8e1a15c831441797912a86022f5a78fcb70e151e43fe84812d4c7f6eb79a7b`
-
-### Assembly Round 2
-
-Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_02.json<br>
-ID: `90ab02d8f700fcb3b31ff577416ecb105697a664738bec45b626920337a280e0`
 
 
 ## How to add a ballot or staking event as a node operator?
@@ -54,6 +54,11 @@ Your node is now ready to track the specific participation event. You can view t
 
 
 ## Previous Events
+
+### Assembly Round 2
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_02.json<br>
+ID: `90ab02d8f700fcb3b31ff577416ecb105697a664738bec45b626920337a280e0`
 
 ### IOTA Community Governance Vote
 
