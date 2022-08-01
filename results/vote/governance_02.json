@@ -1,0 +1,31 @@
+{
+  "milestoneIndex":3931323,
+  "status":"ended",
+  "questions":[
+    {
+      "answers":[
+        {
+          "value":1,
+          "current":165717923542,
+          "accumulated":8016019115490064
+        },
+        {
+         "value":2,
+         "current":217119840496,
+          "accumulated":6788243478652862
+        },
+        {
+          "value":0,
+          "current":0,
+          "accumulated":0
+        },
+        {
+          "value":255,
+          "current":0,
+          "accumulated":0
+        }
+      ]
+    }
+  ],
+  "checksum":"7b3631e309dc3287a8cc3251eb9c5b08566cf76f861b80948b02d616b532233c"
+}
