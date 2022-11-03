@@ -4,15 +4,10 @@ This repository contains the configurations for official participation events.
 
 ## Event `raw`-links
 
-### Assembly Round 3
+### Assembly Round 4
 
-Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_03.json<br>
-ID: `79958d5ccaaa81cea1dc8b589655d369b16c72f27a44433ba22c5b0a7dc89356`
-
-### Shimmer Ecosystem Funding Proposal
-
-Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/vote/shimmer_funding.json<br>
-ID: `9e8e1a15c831441797912a86022f5a78fcb70e151e43fe84812d4c7f6eb79a7b`
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_04.json<br>
+ID: `758f9f6193c4ecc99b4b3c1a57a9cd3c6fc75f94e061d05361647d11ab8d06f6`
 
 
 ## How to add a ballot or staking event as a node operator?
@@ -54,6 +49,16 @@ Your node is now ready to track the specific participation event. You can view t
 
 
 ## Previous Events
+
+### Assembly Round 3
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_03.json<br>
+ID: `79958d5ccaaa81cea1dc8b589655d369b16c72f27a44433ba22c5b0a7dc89356`
+
+### Shimmer Ecosystem Funding Proposal
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/vote/shimmer_funding.json<br>
+ID: `9e8e1a15c831441797912a86022f5a78fcb70e151e43fe84812d4c7f6eb79a7b`
 
 ### Assembly Round 2
 
