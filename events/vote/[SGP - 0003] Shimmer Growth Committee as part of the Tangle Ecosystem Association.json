@@ -1,0 +1,28 @@
+{
+    "name": "[SGP - 0003] Shimmer Growth Committee as part of the Tangle Ecosystem Association",
+    "milestoneIndexCommence": 2934380,
+    "milestoneIndexStart": 3055340,
+    "milestoneIndexEnd": 3176300,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support the setup of the Shimmer Growth Committee as part of the Tangle Ecosystem Association?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes, i support setting up the Shimmer Growth Committee",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No",
+                        "additionalInfo": "I don't want to implement the proposed change"
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/sgp-0003-shimmer-growth-committee-as-part-of-the-tangle-ecosystem-association/1552](https://govern.iota.org/t/sgp-0003-shimmer-growth-committee-as-part-of-the-tangle-ecosystem-association/1552)"
+}
