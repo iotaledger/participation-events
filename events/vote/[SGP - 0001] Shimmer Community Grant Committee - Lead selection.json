@@ -1,0 +1,33 @@
+{
+    "name": "[SGP - 0001] Shimmer Community Grant Committee - Lead selection",
+    "milestoneIndexCommence": 2934380,
+    "milestoneIndexStart": 3055340,
+    "milestoneIndexEnd": 3176300,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Which of these listed candidates should be the Lead of the Shimmer Community Treasury Grant Committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "JD Sutton (DeepSea)",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/jd-sutton-deepsea-program-lead-application/1438"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Null / Rafael Brochado",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/null-rafael-brochado-program-lead-application/1467"
+                    },
+                    {
+                        "value": 3,
+                        "text": "Zilan Arslan / Issaus2020",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/application-grant-program-lead/1507"
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "You can only choose one candidate. Read the applications for the Committee Lead Positions here: [https://govern.iota.org/c/shimmer-governance-proposals/shimmer-community-treasury-coommittee-lead-appli/59](https://govern.iota.org/c/shimmer-governance-proposals/shimmer-community-treasury-coommittee-lead-appli/59)"
+}
