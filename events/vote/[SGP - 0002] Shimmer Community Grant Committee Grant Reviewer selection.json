@@ -1,0 +1,174 @@
+{
+    "name": "[SGP - 0002] Shimmer Community Grant Committee Grant Reviewer selection",
+    "milestoneIndexCommence": 2934380,
+    "milestoneIndexStart": 3055340,
+    "milestoneIndexEnd": 3176300,
+    "payload":
+    {
+        "type": 0,
+        "questions":
+        [
+            {
+                "text": "Should Candidate \"Linus Nauman\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/linus-naumann-grant-reviewer-application/1455"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Garret Jin\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/garrett-jin-grant-reviewer-application/1464"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Ben Royce\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/ben-royce-grant-reviewer-application/1460"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Finanzgoblin - Richard Mediavilla\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/finanzgoblin-grant-reviewer-application/1457"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Kowei\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/kowei-grant-reviewer-application/1468"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Null / Rafael Brochado\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/null-grant-reviewer-application/1483"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Umair\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/umair-grant-reviewer-application/1510"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"AL\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/grant-reviewer-application/1473"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"See3PeeOh\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/see3peeoh-grant-reviewer-application/1477"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"0xMarcus\" become a grant reviewer in the Shimmer Community Grant committee?",
+                "answers":
+                [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/0xmarcus-grant-reviewer-application/1463"
+                    },
+                    {
+                        "value": 2,
+                        "text": "Abstain",
+                        "additionalInfo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546](https://govern.iota.org/t/sgp-0002-shimmer-community-grant-committee-grant-reviewer-selection/1546)"
+}
