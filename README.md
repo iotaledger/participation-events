@@ -7,7 +7,7 @@ This repository contains the configurations for official participation events.
 ### Assembly Round 6
 
 Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_06.json<br>
-ID: `a0e2605db376b5236961e0b05c753700fc8d6b061bd4564289fcfda936bcd59`
+ID: `a0e2605db376b5236961e0b05c753700fc8d6b061bd4564289fcfda936bcd59b`
 
 
 ## How to add a ballot or staking event as a node operator?
