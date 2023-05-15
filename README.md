@@ -4,10 +4,10 @@ This repository contains the configurations for official participation events.
 
 ## Event `raw`-links
 
-### Assembly Round 5
+### Assembly Round 6
 
-Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_05.json<br>
-ID: `e4a155210e0bc125b489e4d49cdb82368e19682b29e7da9a6d4f2ca2a8bd25b9`
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_06.json<br>
+ID: `a0e2605db376b5236961e0b05c753700fc8d6b061bd4564289fcfda936bcd59b`
 
 
 ## How to add a ballot or staking event as a node operator?
@@ -49,6 +49,11 @@ Your node is now ready to track the specific participation event. You can view t
 
 
 ## Previous Events
+
+### Assembly Round 5
+
+Link: https://raw.githubusercontent.com/iotaledger/participation-events/master/events/staking/assembly_05.json<br>
+ID: `e4a155210e0bc125b489e4d49cdb82368e19682b29e7da9a6d4f2ca2a8bd25b9`
 
 ### Assembly Round 4
 

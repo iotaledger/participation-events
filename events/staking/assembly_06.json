@@ -1,0 +1,17 @@
+{
+    "name": "Assembly Round 6",
+    "milestoneIndexCommence": 6454348,
+    "milestoneIndexStart": 6480268,
+    "milestoneIndexEnd": 7257868,
+    "payload":
+    {
+        "type": 1,
+        "text": "Assembly Staking Round 6",
+        "symbol": "microASMB",
+        "numerator": 1,
+        "denominator": 1000000,
+        "requiredMinimumRewards": 1000000,
+        "additionalInfo": "Tracking the sixth staking period for the token distribution of the upcoming Assembly network."
+    },
+    "additionalInfo": "Assembly is a permissionless, highly scalable multi-chain network to build and deploy composable smart contracts. Create. Shape. Build the future of open worlds."
+}
