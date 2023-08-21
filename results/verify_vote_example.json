@@ -1,0 +1,31 @@
+{
+  "milestoneIndex":"ADD MILESTONE INEX",
+  "status":"ADD STATUS OF VOTING EVENT",
+  "questions":[
+    {
+      "answers":[
+        {
+          "value":"ADD VALUE",
+          "current":"ADD CURRENT VOTES",
+          "accumulated":"ADD ACCUMULATED VOTES"
+        },
+        {
+          "value":"ADD VALUE",
+          "current":"ADD CURRENT VOTES",
+          "accumulated":"ADD ACCUMULATED VOTES"
+        },
+        {
+          "value":"ADD VALUE",
+          "current":"ADD CURRENT VOTES",
+          "accumulated":"ADD ACCUMULATED VOTES"
+        },
+        {
+          "value":"ADD VALUE",
+          "current":"ADD CURRENT VOTES",
+          "accumulated":"ADD ACCUMULATED VOTES"
+        }
+      ]
+    }
+  ],
+  "checksum":"ADD CHECKSUM FOR THE VOTING EVENT FROM YOUR NODE"
+}
